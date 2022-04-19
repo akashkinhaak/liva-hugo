@@ -103,7 +103,7 @@ share those images.
 - [Venobox](https://veno.es/venobox)
 - [Fuse Js](https://fusejs.io/)
 - [Google Fonts](https://fonts.google.com/)
-- [All Contributors](https://github.com/gethugothemes/liva-hugo/graphs/contributors)
+
 
 
 ## Hire Us
@@ -113,7 +113,3 @@ If you need to customize the theme or complete website development from scratch,
 [Services](https://gethugothemes.com/services/?utm_source=liva_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=liva_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.webp)](https://gethugothemes.com/products/parsa/) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.webp)](https://gethugothemes.com/products/logbook/) |
-|:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Parsa**  | **Logbook**  |

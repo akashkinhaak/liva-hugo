@@ -72,27 +72,12 @@ Follow the steps.
 Build your website with **Liva Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the liva Template. Please Search [existing
-issues](https://github.com/gethugothemes/liva-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/liva-hugo/issues).
-
-<!-- ## Liva Hugo theme Powered Websites
 
 
-View all the websites powered by Liva Hugo theme [here](https://github.com/gethugothemes/liva-hugo/wiki/All-liva-hugo-theme-Powered-Websites). Want to submit your own website powered by Liva Hugo theme? You can submit it [here](https://github.com/gethugothemes/liva-hugo/discussions/46). -->
 
-<!-- licence -->
-## License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
 
-**Code License:** Released under the [MIT](https://github.com/gethugothemes/liva-hugo/blob/master/LICENSE) license.
 
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
+
 
 <!-- resources -->
 ## Special Thanks
@@ -106,10 +91,6 @@ share those images.
 
 
 
-## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
 
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[Services](https://gethugothemes.com/services/?utm_source=liva_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 
